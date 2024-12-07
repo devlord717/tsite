@@ -137,12 +137,10 @@ const About = () => {
 
             <div className='mt-5 justify-evenly text-justify'>
               <p className='text-gray-600 dark:text-gray-300'>
-                I am a Senior Mobile developer making games for all platforms including NFTs,
-                Block Chain, and Play-to-Earn (P2E) Games with Unity and Flutter.
-                I have worked in all categories like Racing, Simulation, Action, Arcade, Puzzle, 
-                FPS, TPS, RCC, and so on.<br/>
-                Additionally, I have experience in back-end development with Node.js, Python, and .NET, allowing me to create Game Server.
-                I am always willing to grow and learn more about new techniques and skills!
+              I am a skilled and passionate game developer with 10+ years of experience specializing in Unity 3D.
+              I excel in designing innovative gameplay mechanics, building scalable systems, and optimizing performance
+              across mobile, PC, and console platforms. With expertise in C#, AI-driven systems, and multiplayer features,
+              I bring a collaborative approach to creating immersive and engaging gaming experiences.
               </p>
             </div>
           </div>

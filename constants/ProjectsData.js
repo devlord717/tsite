@@ -1,5 +1,87 @@
 export const ProjectsData = [
     {
+        projectName: "Mushroom Bounce",
+        liveUrl: "https://play.google.com/store/apps/details?id=com.infinityup.mushroomspring&hl=en_US",
+        // githubUrl: "https://github.com/iamshiv007/shovee",
+        projectImage: {
+            imageUrl: "/projects/mushroom-bounce.jpg"
+        },
+        techs: ["Unity3D", "C#", "Blender", "PhotoShop"]
+    },
+    {
+        projectName: "Guns vs Magic",
+        liveUrl: "https://play.google.com/store/apps/details?id=com.smokoko.magicactionrpg&hl=en_US ",
+        // githubUrl: "https://github.com/iamshiv007/shovee",
+        projectImage: {
+            imageUrl: "/projects/gun-vs-magic.jpg"
+        },
+        techs: ["Unity3D", "C#", "Blender", "Substance Painter"]
+    },
+    {
+        projectName: "Castle War",
+        liveUrl: "https://play.google.com/store/apps/details?id=com.pid.castlewar&hl=en_US",
+        // githubUrl: "https://github.com/iamshiv007/shovee",
+        projectImage: {
+            imageUrl: "/projects/castle-war.jpg"
+        },
+        techs: ["Unity3D", "C#", "Blender", "Shader Graph"]
+    },
+    {
+        projectName: "Booblyc TD Realm Tower Defence",
+        liveUrl: "https://play.google.com/store/apps/details?id=com.booblyc.defensecardstd&hl=en_US",
+        // githubUrl: "https://github.com/iamshiv007/shovee",
+        projectImage: {
+            imageUrl: "/projects/tower-defense.jpg"
+        },
+        techs: ["Unity3D", "C#", "NavMesh", "Firebase"]
+    },
+    {
+        projectName: "Munity-Priate RPG",
+        liveUrl: "https://play.google.com/store/apps/details?id=com.heliogames.pirates&hl=en_US ",
+        // githubUrl: "https://github.com/iamshiv007/shovee",
+        projectImage: {
+            imageUrl: "/projects/priate-survival.jpg"
+        },
+        techs: ["Unity3D", "C#", "Photon", "SQLite"]
+    },
+    {
+        projectName: "Block Fortress",
+        liveUrl: "https://play.google.com/store/apps/details?id=com.foursakenmedia.blockfortresswar&hl=en_US ",
+        // githubUrl: "https://github.com/iamshiv007/shovee",
+        projectImage: {
+            imageUrl: "/projects/block-fortress.jpg"
+        },
+        techs: ["Unity3D", "C#", "Photon", "iOS"]
+    },
+    {
+        projectName: "Carmen Stories",
+        liveUrl: "https://play.google.com/store/apps/details?id=br.com.tapps.where.is.carmen.sandiego&hl=en_US",
+        // githubUrl: "https://github.com/iamshiv007/shovee",
+        projectImage: {
+            imageUrl: "/projects/carmen-stories.jpg"
+        },
+        techs: ["Unity3D", "C#", "Photon", "SQLite"]
+    },
+    {
+        projectName: "Wings of Steel",
+        liveUrl: "https://play.google.com/store/apps/details?id=com.IMStudio.WOS&hl=en_US ",
+        // githubUrl: "https://github.com/iamshiv007/shovee",
+        projectImage: {
+            imageUrl: "/projects/wings-of-steel.jpg"
+        },
+        techs: ["Unity3D", "C#", "PhysX", "Asset Bundles"]
+    },
+    {
+        projectName: "Pocket Rally",
+        liveUrl: "https://play.google.com/store/apps/details?id=com.IMStudio.PocketRally&hl=en_US ",
+        // githubUrl: "https://github.com/iamshiv007/shovee",
+        projectImage: {
+            imageUrl: "/projects/pocket-rally.jpg"
+        },
+        techs: ["Unity3D", "C#", "MOGA SDK", "Custom Replay System"]
+    },
+
+    {
         projectName: "Ori and the Will of the Wisps",
         liveUrl: "https://kapps.io/portfolio/ori-and-the-will-of-the-wisps",
         // githubUrl: "https://github.com/iamshiv007/shovee",
